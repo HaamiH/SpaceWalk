@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_particle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_particle",
+  "parent":{
+    "name":"Game1",
+    "path":"Game1.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
